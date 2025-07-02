@@ -106,4 +106,32 @@ Your files will most likely decompress in to a folder, you should move your file
 
 Then select all the files, using the check box next to them, you should now see a menu appear on your server, where you can click `Move`.\
 \
-![](../.gitbook/assets/hosting12.png)
+
+
+<figure><img src="../.gitbook/assets/hosting12.png" alt=""><figcaption></figcaption></figure>
+
+This will open a modal where you can enter the path to move the files to, you can enter a relative path here so to move the files out of the folder simply enter `..` to move them back one directory. Then to complete the move simply press enter or click the move button.\
+\
+
+
+<figure><img src="../.gitbook/assets/hosting14.png" alt=""><figcaption></figcaption></figure>
+
+Finally you can delete the archive and folder on your server to free up space.
+
+### **Final Configuration**
+
+You should ensure the start-up configuration (found in the `Startup` tab on your server control panel) before your bot is good to go. There are some notable configuration options.
+
+You will see an option similar to `Bot <language> file` or `JAR FILE` or similar. This is the file that the server will start with. When developing your bot, you will have a main file that is used to start the code and import all other files, this is what you must enter here and make sure it is correct.\
+\
+
+
+<figure><img src="../.gitbook/assets/hosting15.png" alt=""><figcaption></figcaption></figure>
+
+Additionally, if you are running a python or node.js server, you need to make sure you tell the server all modules (packages/libraries) that your code requires to be installed.
+
+For node.js if you simply upload your `package.json` file, which should be generated when you installed the packages in your development environment, the server will use it to install all required dependencies.
+
+For python you can either upload a `requirements.txt` file containing all modules to be installed or in the startup tab under `Additional Python packages` you can enter all modules you require with a space between them.
+
+Your server should now be good to go!
