@@ -9,7 +9,7 @@
 * [Connecting to your server's files with SFTP](guides/connecting-to-your-servers-files-with-sftp.md)
 * [Linking a domain to your server](guides/linking-a-domain-to-your-server.md)
 
-## Product Guides
+## Common Issues
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [Cannot find module / Cannot open file error on startup](common-issues/cannot-find-module-cannot-open-file-error-on-startup.md)
+* [📎 Understanding Projects](common-issues/understanding-projects.md)

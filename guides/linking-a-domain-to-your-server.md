@@ -26,4 +26,17 @@ If you want to be able to visit your site with HTTPS you need a TLS certificate.
 
 We recommend you use Cloudflare for getting a TLS certificate, it's free and works great. Firstly if you have not already, you need to move your domain's name servers to Cloudflare by signing up at [https://dash.cloudflare.com](https://dash.cloudflare.com/) and setting it up.
 
-Then you need to setup a CNAME record same as above but this time make sure the `Proxy status` option is checked.
+Then you need to setup a CNAME record same as above but this time make sure the `Proxy status` option is checked.\
+
+
+<figure><img src="../.gitbook/assets/domain3.png" alt=""><figcaption><p>DNS record with proxying enabled.<br></p></figcaption></figure>
+
+But this alone won't work. Since you are now passing the connection through a proxy, we can't figure out what target you're connecting to, so you need to add a `TXT` record as well. This TXT record should contain `bh-server=<your server ID>`.\
+
+
+<figure><img src="../.gitbook/assets/domain4.png" alt=""><figcaption><p>A TXT record for which server to target.</p></figcaption></figure>
+
+Make sure you have SSL/TLS Encryption Mode set to flexible. Now you should be able to visit your domain through an HTTPS connection in your browser.\
+
+
+<figure><img src="../.gitbook/assets/domain5.png" alt=""><figcaption></figcaption></figure>
