@@ -23,10 +23,7 @@ There are two ways to get coins, both can be accessed on the earn coins page.
 <figure><img src="../.gitbook/assets/hosting1.png" alt=""><figcaption></figcaption></figure>
 
 The first way to earn coins is using the free coin generator, every user is able to claim 10 coins completely for free. The generator can be found at the top of the earn coins page. You must complete the captcha and then click the button labelled `Click here to claim one free coin!`. You can do this 10 times every day.\
-\
-\
-\
-Alternatively you can purchase coins with money. This may be required if your bot requires more resources.
+
 
 <figure><img src="../.gitbook/assets/hosting2.png" alt=""><figcaption></figcaption></figure>
 
