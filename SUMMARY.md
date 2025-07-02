@@ -12,4 +12,4 @@
 ## Common Issues
 
 * [Cannot find module / Cannot open file error on startup](common-issues/cannot-find-module-cannot-open-file-error-on-startup.md)
-* [📎 Understanding Projects](common-issues/understanding-projects.md)
+* [Understanding Projects](common-issues/understanding-projects.md)
