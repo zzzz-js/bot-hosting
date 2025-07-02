@@ -1,0 +1,36 @@
+---
+description: This guide will teach you how to host your first bot on bot-hosting.net
+---
+
+# Hosting your first bot
+
+**Contents:**
+
+[Coins](https://wiki.bot-hosting.net/guides/hosting-your-first-bot#coins) - The coins system explained
+
+[Creating the server ](https://wiki.bot-hosting.net/guides/hosting-your-first-bot#creating-the-server)- How to create your server
+
+[Setting up your server ](https://wiki.bot-hosting.net/guides/hosting-your-first-bot#setting-up-your-server)- How to upload and run your code
+
+To start with you must login at [https://bot-hosting.net/login](https://bot-hosting.net/login) with Discord. Your account will be linked to all your servers.
+
+## Coins <a href="#coins" id="coins"></a>
+
+Bot-hosting uses a coin system, servers cost a certain amount of coins every week/month, so you need coins to create your server and keep it running.
+
+There are two ways to get coins, both can be accessed on the earn coins page.\
+![](../.gitbook/assets/hosting1.png)\
+\
+The first way to earn coins is using the free coin generator, every user is able to claim 10 coins completely for free. The generator can be found at the top of the earn coins page. You must complete the captcha and then click the button labelled `Click here to claim one free coin!`. You can do this 10 times every day.\
+\
+![](../.gitbook/assets/hosting2.png)\
+\
+Alternatively you can purchase coins with money. This may be required if your bot requires more resources.
+
+### Creating the server <a href="#creating-the-server" id="creating-the-server"></a>
+
+You should select `Create Server` on the navbar down the side. You will see a page where you can enter your server requirements.
+
+You will first be prompted for a name and language. The name is what you want the server to be referred to as, this is for you to help identify it if you have multiple servers. The language is the programming language that your bot was coded in. You must select the correct language so the server is compatible with your bot. **Please note:** We have had multiple users confuse Java with Node.js, JavaScript and Java are completely different languages.
+
+You should click next once you have filled in these details.
