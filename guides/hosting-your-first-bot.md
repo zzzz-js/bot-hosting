@@ -35,14 +35,13 @@ Alternatively you can purchase coins with money. This may be required if your bo
 
 You should select `Create Server` on the navbar down the side. You will see a page where you can enter your server requirements.
 
-You will first be prompted for a name and language. The name is what you want the server to be referred to as, this is for you to help identify it if you have multiple servers. The language is the programming language that your bot was coded in. You must select the correct language so the server is compatible with your bot. **Please note:** We have had multiple users confuse Java with Node.js, JavaScript and Java are completely different languages.
-
-You should click next once you have filled in these details.\
+You will first be prompted for a name and language. The name is what you want the server to be referred to as, this is for you to help identify it if you have multiple servers. The language is the programming language that your bot was coded in. You must select the correct language so the server is compatible with your bot. **Please note:** We have had multiple users confuse Java with Node.js, JavaScript and Java are completely different languages.\
 \
-\
-You will then be asked to select a plan, each plan comes with different server specifications. Depending on the complexity of your bot, intensity of the tasks your bot performs and the amount of servers your bot is in you will need to select a suitable plan. You can always change your plan again later on.
+You should click next once you have filled in these details.
 
 <figure><img src="../.gitbook/assets/hosting3.png" alt=""><figcaption></figcaption></figure>
+
+You will then be asked to select a plan, each plan comes with different server specifications. Depending on the complexity of your bot, intensity of the tasks your bot performs and the amount of servers your bot is in you will need to select a suitable plan. You can always change your plan again later on.
 
 You can view the price of the plans, this is how many coins you will have to pay either every week or every month.\
 \
