@@ -94,4 +94,16 @@ There are two ways to upload your files, either in the files tab or if you are u
 If you wish to upload your files using the files tab and file selector, click files in the navbar along the top of your server and then click upload. You should upload your files in a compressed format such as `.zip` or `.gz` or any other compression format. Then when it's on the server click the 3 dots next to the file and click `Unarchive` to extract it.\
 \
 \
+
+
+<figure><img src="../.gitbook/assets/hosting10.png" alt=""><figcaption></figcaption></figure>
+
+Your files will most likely decompress in to a folder, you should move your files out of the folder, doing this is easy. First click open the folder you just extracted the files in to.\
+\
+
+
+<figure><img src="../.gitbook/assets/hosting11.png" alt=""><figcaption></figcaption></figure>
+
+Then select all the files, using the check box next to them, you should now see a menu appear on your server, where you can click `Move`.\
+\
 /
