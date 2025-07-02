@@ -56,3 +56,7 @@ In the end, whatever you choose isn't that important so choose whichever you'd p
 
 
 <figure><img src="../.gitbook/assets/hosting5.png" alt=""><figcaption></figcaption></figure>
+
+Finally you will have to confirm creation. Alternatively you will have the option to subscribe to a paid subscription where coins are not involved.\
+\
+/
