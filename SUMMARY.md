@@ -5,7 +5,7 @@
 ## Guides
 
 * [Hosting your first bot](guides/hosting-your-first-bot.md)
-* [Our Features](guides/our-features.md)
+* [Cloning a Git repository on your server](guides/cloning-a-git-repository-on-your-server.md)
 
 ## Product Guides
 
