@@ -10,14 +10,39 @@ description: >-
 If you are having trouble cloning from a Git repository you can always download the files to your PC then upload them to the server.
 {% endhint %}
 
-## Awesome Feature One
+To clone a Git repository on to your server you must configure the repository in the startup tab.
 
-Get amazing things done with awesome feature one. But remember that awesome feature two and three exist too. In fact, Awesome Product is full of awesome features.
+The first thing you must set is the repository address:\
 
-![](https://images.unsplash.com/photo-1555774698-0b77e0d5fac6?crop=entropy\&cs=tinysrgb\&fm=jpg\&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHxhcHB8ZW58MHx8fHwxNjYwNTgzMzQz\&ixlib=rb-1.2.1\&q=80)
 
-## Awesome Feature Two
+<figure><img src="../.gitbook/assets/git1.png" alt=""><figcaption></figcaption></figure>
 
-Get amazing things done with awesome feature two. But remember that awesome feature one and three exist too. In fact, Awesome Product is full of awesome features.
+This is the URL that your repository is at, e.g. https://github.com/yourname/reponame.
 
-![](https://images.unsplash.com/photo-1569144157591-c60f3f82f137?crop=entropy\&cs=tinysrgb\&fm=jpg\&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxmZWF0dXJlfGVufDB8fHx8MTY2MDU4MzM1OQ\&ixlib=rb-1.2.1\&q=80)
+Next you must set the install branch, for most people this is probably `master`. This is the production branch of your repository that should be pulled.\
+
+
+<figure><img src="../.gitbook/assets/git2.png" alt=""><figcaption></figcaption></figure>
+
+**If you repository is a private repository you must fill in the following variables**
+
+You must enter your username on the Git host in the Git username variable:\
+
+
+<figure><img src="../.gitbook/assets/git3.png" alt=""><figcaption></figcaption></figure>
+
+And then you must enter your personal access token. Depending on the site you use to host your repository this can be found at the following links:
+
+* [GitHub](https://github.com/settings/tokens)
+* [GitLab](https://gitlab.com/-/profile/personal_access_tokens)
+
+If you use a different service to host your repository you must create a personal access token with them.
+
+**Finally...**
+
+You must trigger the cloning so your server can pull from the repository every time it restarts. To do this firstly make sure there are no files on your server then on the settings page of your server click `Reinstall Server`.\
+
+
+<figure><img src="../.gitbook/assets/git4.png" alt=""><figcaption></figcaption></figure>
+
+Your repository should then clone!
