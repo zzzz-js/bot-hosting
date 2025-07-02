@@ -59,4 +59,39 @@ In the end, whatever you choose isn't that important so choose whichever you'd p
 
 Finally you will have to confirm creation. Alternatively you will have the option to subscribe to a paid subscription where coins are not involved.\
 \
+
+
+<figure><img src="../.gitbook/assets/hosting6.png" alt=""><figcaption></figcaption></figure>
+
+Once you confirm creation your server will be created and the installation process will be initiated!
+
+## Setting up your server <a href="#setting-up-your-server" id="setting-up-your-server"></a>
+
+Now that you have created a server, you should be able to view it on the `Manage Servers` page. You can click manage server on it.\
+\
+
+
+<figure><img src="../.gitbook/assets/hosting7.png" alt=""><figcaption></figcaption></figure>
+
+You can then view your server on the control panel, this is where you will upload files, start/stop your server and configure it.\
+\
+
+
+<figure><img src="../.gitbook/assets/hosting8.png" alt=""><figcaption></figcaption></figure>
+
+If this is your first time entering the control panel, you will be prompted to login with Discord again
+
+Once logged in you should then be able to see your server on the control panel. You can select it.\
+\
+
+
+<figure><img src="../.gitbook/assets/hosting9.png" alt=""><figcaption></figcaption></figure>
+
+You should now see your server like this. As you can see along the top you have a lot of tabs to control different aspects of the server. The first thing you should do is upload your files.
+
+There are two ways to upload your files, either in the files tab or if you are uploading lots of files or want to integrate file uploads in to your deployment system you can use the file upload protocol, SFTP. If you wish to use SFTP you can find your credentials on the settings page in the control panel navbar for your server.
+
+If you wish to upload your files using the files tab and file selector, click files in the navbar along the top of your server and then click upload. You should upload your files in a compressed format such as `.zip` or `.gz` or any other compression format. Then when it's on the server click the 3 dots next to the file and click `Unarchive` to extract it.\
+\
+\
 /
