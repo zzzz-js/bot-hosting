@@ -1,7 +1,13 @@
+---
+description: >-
+  You may want to run code directly pulled from a Git repository on your server.
+  Our servers provide configuration options for doing this.
+---
+
 # Cloning a Git repository on your server
 
 {% hint style="info" %}
-**GitBook tip:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at Loom as a perfect example of a succinct feature overview.
+If you are having trouble cloning from a Git repository you can always download the files to your PC then upload them to the server.
 {% endhint %}
 
 ## Awesome Feature One

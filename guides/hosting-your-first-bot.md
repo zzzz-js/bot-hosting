@@ -92,9 +92,11 @@ You should now see your server like this. As you can see along the top you have 
 There are two ways to upload your files, either in the files tab or if you are uploading lots of files or want to integrate file uploads in to your deployment system you can use the file upload protocol, SFTP. If you wish to use SFTP you can find your credentials on the settings page in the control panel navbar for your server.
 
 If you wish to upload your files using the files tab and file selector, click files in the navbar along the top of your server and then click upload. You should upload your files in a compressed format such as `.zip` or `.gz` or any other compression format. Then when it's on the server click the 3 dots next to the file and click `Unarchive` to extract it.\
-\
-[If you are using node.js you don't need to upload your `node_modules` folder as the server can automatically install your packages as long as you upload your `package.json` file.](#user-content-fn-1)[^1]\
 
+
+{% hint style="info" %}
+If you are using node.js you don't need to upload your `node_modules` folder as the server can automatically install your packages as long as you upload your `package.json` file.
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/hosting10.png" alt=""><figcaption></figcaption></figure>
 
@@ -135,5 +137,3 @@ For node.js if you simply upload your `package.json` file, which should be gener
 For python you can either upload a `requirements.txt` file containing all modules to be installed or in the startup tab under `Additional Python packages` you can enter all modules you require with a space between them.
 
 Your server should now be good to go!
-
-[^1]: 
