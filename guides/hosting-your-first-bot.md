@@ -27,7 +27,11 @@ The first way to earn coins is using the free coin generator, every user is able
 
 <figure><img src="../.gitbook/assets/hosting2.png" alt=""><figcaption></figcaption></figure>
 
-### Creating the server <a href="#creating-the-server" id="creating-the-server"></a>
+Alternatively you can purchase coins with money. This may be required if your bot requires more resources.
+
+
+
+## Creating the server <a href="#creating-the-server" id="creating-the-server"></a>
 
 You should select `Create Server` on the navbar down the side. You will see a page where you can enter your server requirements.
 
