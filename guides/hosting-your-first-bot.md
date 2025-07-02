@@ -106,4 +106,4 @@ Your files will most likely decompress in to a folder, you should move your file
 
 Then select all the files, using the check box next to them, you should now see a menu appear on your server, where you can click `Move`.\
 \
-/
+![](../.gitbook/assets/hosting12.png)
