@@ -17,7 +17,8 @@ To start with you must login at [https://bot-hosting.net/login](https://bot-host
 ## Coins <a href="#coins" id="coins"></a>
 
 Bot-hosting uses a coin system, servers cost a certain amount of coins every week/month, so you need coins to create your server and keep it running.\
-
+\
+There are two ways to get coins, both can be accessed on the earn coins page.
 
 <figure><img src="../.gitbook/assets/hosting1.png" alt=""><figcaption></figcaption></figure>
 
