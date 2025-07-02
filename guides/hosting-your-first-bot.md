@@ -49,3 +49,10 @@ You can view the price of the plans, this is how many coins you will have to pay
 
 
 <figure><img src="../.gitbook/assets/hosting4.png" alt=""><figcaption></figcaption></figure>
+
+You will then be prompted to select your billing cycle. This is how often you will be charged coins. Your options are either weekly or monthly. For most people weekly is more ideal as it enables more flexibility with servers however others may prefer to see their coins billed once a month.
+
+In the end, whatever you choose isn't that important so choose whichever you'd prefer.\
+
+
+<figure><img src="../.gitbook/assets/hosting5.png" alt=""><figcaption></figcaption></figure>
